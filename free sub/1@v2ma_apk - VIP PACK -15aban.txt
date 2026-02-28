@@ -17,3 +17,4 @@ vless://45b26c86-63ee-4fd2-a97e-e2aa8fc7da2c@http.hexo-music.ir:2095?encryption=
 vless://45b26c86-63ee-4fd2-a97e-e2aa8fc7da2c@sw.hexo-music.ir:2095?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%40v2ma_apk%20%3Dtelegram%E2%9A%A1%20%E2%9C%A6%20%F0%9F%85%B7%F0%9F%86%83%F0%9F%86%83%F0%9F%85%BF%20-%20%F0%9F%86%82%F0%9F%86%86%20%F0%9F%87%A8%F0%9F%87%AD
 
 vless://45b26c86-63ee-4fd2-a97e-e2aa8fc7da2c@uk.hexo-music.ir:2095?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%40v2ma_apk%20%3Dtelegram%E2%9A%A1%20%E2%9C%A6%20%F0%9F%85%B7%F0%9F%86%83%F0%9F%86%83%F0%9F%85%BF%20-%20%F0%9F%86%84%F0%9F%85%BA%20%F0%9F%87%AC%F0%9F%87%A7
+
