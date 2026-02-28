@@ -1,4 +1,4 @@
-6 esfand 1404
+6 esfand 1404 wifi
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@v2ma_apk✅wifi✅6esfand-1
 
